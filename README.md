@@ -1,2 +1,2 @@
 # sample
-this is a test repository
+This repository contains code samples, examples etc.
